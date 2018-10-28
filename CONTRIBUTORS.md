@@ -24,3 +24,11 @@
  - Email: mtuchidev@gmail.com
  - Twitter: [@mtuchidev](https://twitter.com/mtuchidev)
  - GitHub: [mtuchi](https://github.com/mtuchi)
+
+ #### Name: Joshua Mshanga
+ - Place: Dar es Salaam, Tanzania
+ - Bio: Developer, Nature lover
+ - Email: jpmshanga@gmail.com
+ - Twitter: [@jpmshanga](https://twitter.com/jpmshanga)
+ - GitHub: [Joshua](https://github.com/jpmshanga)
+
